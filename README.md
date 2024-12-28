@@ -1,4 +1,3 @@
-```markdown
 # Project Structure Analyzer
 
 A simple Python script to analyze your project directory, generate an ASCII tree representation of its structure, and manage `.gitignore` to exclude the script and the generated structure file from version control.
@@ -105,5 +104,3 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-
-```
