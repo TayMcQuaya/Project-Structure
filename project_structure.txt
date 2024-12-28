@@ -1,0 +1,12 @@
+Folder Structure/
+├── .gitignore
+├── README.md
+├── Test
+│   ├── Test 1.1
+│   │   └── text.txt
+│   └── test1.2
+│       └── text1.2.txt
+├── Test 2
+│   └── text2.txt
+├── project_structure.py
+└── project_structure.txt
